@@ -3,9 +3,9 @@
 int main(){
 int option;
 
-printf("Escoja lo que desea ver:\n");
-printf("1: Animal\n");
-printf("2: Objeto\n");
+printf("Eliga la opcion a dibujar:\n");
+printf("1: Gato\n");
+printf("2: Corazon\n");
 printf("3: Salir del programa\n");
 scanf("%d", &option);
 
